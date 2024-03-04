@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+::-webkit-scrollbar {
+  display: none;
+}
+/* CSS (Tailwind + custom CSS) */
+@keyframes infiniteScrollRightToLeft {
+  0% {
+    transform: translateX(50%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.infinite-scroll-right-to-left {
+  animation: infiniteScrollRightToLeft 6s infinite linear;
+}

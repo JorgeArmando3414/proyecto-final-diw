@@ -1,0 +1,76 @@
+{
+    "songs": [
+      {
+        "nombre": "Should I Stay or Should I Go",
+        "grupo": "The Clash",
+        "album": "Combat Rock",
+        "duracion": "3:09",
+        "path_to_file": "/cancion1.mp3",
+        "copy": "© Pennie Smith",
+        "caratula":"/combatRock.jpg"
+      },
+      {
+        "nombre": "I Fought the Law",
+        "grupo": "The Clash",
+        "album": "The Cost of Living",
+        "duracion": "2:43",
+        "path_to_file": "/cancion2.mp3",
+        "copy": "© Alex McDowell",
+        "caratula":"/costOfLiving.jpg"
+      },
+      {
+        "nombre": "Caminando por la vida",
+        "grupo": "Melendi",
+        "album": "Que el cielo espere sentao..",
+        "duracion": "3:31",
+        "path_to_file": "/cancion3.mp3",
+        "copy": "© Javier Salas / Roberto Cano",
+        "caratula":"/cieloSentao.jpg"
+      },
+      {
+        "nombre": "Desde mi ventana",
+        "grupo": "Melendi",
+        "album": "Sin Noticias De Holanda",
+        "duracion": "3:47",
+        "path_to_file": "/cancion4.mp3",
+        "copy": "© Roberto Cano",
+        "caratula":"/holanda.jpg"
+      },
+      {
+        "nombre": "World is Yours",
+        "grupo": "Mass of Fermenting Dregs",
+        "album": "World is Yours",
+        "duracion": "3:31",
+        "path_to_file": "/cancion5.mp3",
+        "copy": "© Ai Kozaki",
+        "caratula":"/worldIsYours.jpg"
+      },
+      {
+        "nombre": "Aoi, Koi, Daidaiiro No Hi",
+        "grupo": "Mass of Fermenting Dregs",
+        "album": "World is Yours",
+        "duracion": "4:42",
+        "path_to_file": "/cancion6.mp3",
+        "copy": "© Ai Kozaki",
+        "caratula":"/worldIsYours.jpg"
+      },
+      {
+        "nombre": "The Zephyr Song",
+        "grupo": "Red Hot Chili Peppers",
+        "album": "By the Way",
+        "duracion": "3:52",
+        "path_to_file": "/cancion7.mp3",
+        "copy": "© Julian Schnabel / Red Hot Chili Peppers",
+        "caratula":"/byTheWay.webp"
+      },
+      {
+        "nombre": "Snow (Hey Oh)",
+        "grupo": "Red Hot Chili Peppers",
+        "album": "Stadium Arcadium",
+        "duracion": "5:35",
+        "path_to_file": "/cancion8.mp3",
+        "copy": "© Storm Thorgerson",
+        "caratula":"/Stadiumarcadium.jpg"
+      }
+    ]
+  }

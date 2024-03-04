@@ -1,0 +1,26 @@
+{
+    "artista1":{
+        "nombre":"The Clash",
+        "imagen":"/clash.jpg",
+        "copy":"© 2020 Adrian Boot / urbanimage.tv",
+        "descripcion":"Influyente banda británica de punk rock surgida en Londres a finales de los 70, conocida por su actitud rebelde y sus letras políticamente cargadas. Con una fusión única de punk, reggae y otros géneros, sus álbumes como 'The Clash', 'London Calling' y 'Combat Rock' destacan por abordar temas sociales y políticos. Su legado perdura como uno de los pilares del punk y una influencia duradera en la música alternativa y el activismo político."
+    },
+    "artista2":{
+        "nombre":"Melendi",
+        "imagen":"/melendi.jpg",
+        "copy":"© Carlito Records",
+        "descripcion":"Reconocido cantante y compositor español, conocido por su estilo único que fusiona el pop rock con influencias de flamenco y otros géneros musicales. Con letras que abordan temas de la vida cotidiana, el amor y las experiencias personales, Melendi ha ganado popularidad tanto en España como en otros países de habla hispana. Su capacidad para conectar con el público a través de sus emocionales interpretaciones y su carisma en el escenario lo han convertido en uno de los artistas más destacados de la escena musical española actual."
+    },
+    "artista3":{
+        "nombre":"Mass of Fermenting Dregs",
+        "imagen":"/mofd.jpg",
+        "copy":"© @shimizumasaya",
+        "descripcion":"Destacada banda japonesa de shoegaze y rock alternativo que ha ganado reconocimiento por su sonido distintivo y enérgico. Formada a principios de los 2000 en Tokio, la banda ha cautivado a audiencias con su poderosa combinación de melodías cautivadoras, riffs de guitarra contundentes y una sección rítmica sólida. Con letras introspectivas y emotivas, Mass Of Fermenting Dregs ha lanzado álbumes aclamados por la crítica como 'No New World' y 'World Is Yours', consolidando su posición como una de las bandas más influyentes en la escena del rock alternativo japonés."
+    },
+    "artista4":{
+        "nombre":"Red Hot Chili Peppers",
+        "imagen":"/rhcp.jpg",
+        "copy":"© Mark Seliger/CORBIS OUTLINE",
+        "descripcion":"Icónica banda estadounidense de rock alternativo formada a principios de los 80. Con un estilo distintivo que fusiona el funk, el punk, el rock y el rap, la banda ha cautivado a audiencias de todo el mundo. Con letras que abordan temas como el amor, la libertad y la superación personal, sus álbumes, incluyendo 'Blood Sugar Sex Magik', 'Californication' y 'Stadium Arcadium', han sido aclamados por la crítica y han vendido millones de copias."
+    }
+}
